@@ -1,0 +1,1 @@
+# Medical-Diagnostic-System-in-AI-using-Turbo-Prolog
